@@ -1,0 +1,109 @@
+body {
+  background: #ffffff;
+  margin: 70px, auto;
+  width: 900px;
+}
+
+.article {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.article a:link {
+  color: #5d5d5d;
+}
+
+.article #comments {
+  background: #ebebeb;
+}
+
+
+.article b, strong {
+  font-weight: 650;
+}
+
+.article h1, h2, h3, h4, h5, h6 {
+  font-size: 2.6em;
+  line-height: 1.1;
+  font-weight: 100;
+  margin: 1.5em 0;
+  text-align: start;
+}
+
+.article h2 {
+  font-size: 2.15em;
+}
+
+.article h3 {
+  font-size: 1.8em;
+}
+
+.article h4 {
+  font-size: 1.5em;
+}
+
+.article p, dl, li, blockquote, pre, code {
+  margin: 1.5em 0;
+  text-align: start;
+  box-sizing: border-box;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.article blockquote {
+  margin-left: 40px;
+
+  border-style: solid;
+  border-width: 0px;
+  border-left-width: 10px;
+  border-left-color: #dfdfdf;
+
+  background-color: #f2f2f2;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 15px 20px;
+}
+
+.article dt, dd {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.article dt {
+  font-weight: bold;
+}
+
+.article .footnote {
+  vertical-align: super;
+  font-size: small;
+}
+
+
+.article pre {
+  white-space: pre;
+
+  background-color: #f2f2f2;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 15px 20px;
+}
+
+
+.article code {
+  font-family: "Courier New", monospace;
+  font-weight: 600;
+
+  background-color: #f2f2f2;
+  border-radius: 5px;
+
+  word-wrap: break-word;
+}
+
+.article img {
+  margin-left: 50px;
+}
+
+.toc ul li {
+  list-style-type: none;
+  line-height: 1.4;
+  margin: 0px;
+}
