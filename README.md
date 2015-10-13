@@ -1,5 +1,5 @@
-# Stafla
-[StackEdit](https://stackedit.io/) Flavered Mark Down PDFier
+Stafla - StackEdit Flavered Mark Down PDFier
+====
 
 > Notice: This project is for personal usage. Neither UI nor documentation is provided. If you're in need to save stackedit MD as PDF to your disk, please consider sponsoring StackEdit.
 
