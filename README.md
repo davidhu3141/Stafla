@@ -1,4 +1,4 @@
-Stafla - StackEdit Flavered Mark Down PDFier
+Stafla - StackEdit Flavered Markdown/HTML PDFier
 ====
 
 > Notice: This project is for personal usage. Neither UI nor documentation is provided. If you're in need to save stackedit MD as PDF to your disk, please consider sponsoring StackEdit.
