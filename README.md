@@ -7,4 +7,4 @@ Stafla - StackEdit Flavered Markdown/HTML PDFier
 
 2. As the blockquote said, I don't want to cause any invasion of Stackedit's right. 
 
-3. This project uses Mathjax.js, hightlight.js, jQuery
+3. This project imports Mathjax.js, Hightlight.js to render texts.
