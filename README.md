@@ -6,3 +6,5 @@ Stafla - StackEdit Flavered Markdown/HTML PDFier
 1. I use css to simulate [Stackedit](https://stackedit.io/) style. Stackedit is a handy, powerful cloud MD editor so I use it so often.
 
 2. As the blockquote said, I don't want to cause any invasion of Stackedit's right. 
+
+3. This project uses Mathjax.js, hightlight.js, jQuery
